@@ -1,0 +1,2 @@
+# ROUTIQ-Hybrid-Vernacular-AI-Powered-Fleet-Management-System-
+ROUTIQ is a software-defined, low-cost fleet management and logistics optimization system designed for the unorganized logistics sector in developing economies. It addresses the high cost and limited accessibility of traditional Fleet Management Systems by combining ELM327 OBD-II Bluetooth adapters with smartphone sensors to enable real  analysis
