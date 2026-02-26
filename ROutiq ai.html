@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>ROUTIQ Fleet Assistant</title>
+  <script src="https://cdn.jsdelivr.net/gh/VapiAI/html-script-tag@latest/dist/assets/index.js" defer async></script>
+</head>
+
+<body>
+  <h2>ROUTIQ Fleet Intelligence Assistant</h2>
+
+  <script>
+    window.addEventListener('load', () => {
+      window.vapiSDK.run({
+        apiKey: "7e21aabf-1af6-4176-b99e-f30b3603477e",
+        assistant: "4c508a33-004f-4c0c-a894-30e59c856c1d",
+        config: {
+          position: "bottom-right",
+          theme: {
+            primary: "#1f2937",
+            secondary: "#ffffff"
+          }
+        }
+      });
+    });
+  </script>
+</body>
+
+</html>
